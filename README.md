@@ -1,6 +1,6 @@
 # 📊 Data Analytics & Excel Dashboard Repository
 
-Welcome to the **temp** repository! This collection showcases advanced Excel dashboards, data analysis projects, and practical Excel solutions.
+Welcome to the **temp** repository! This collection showcases advanced Excel dashboards, Power BI projects, data analysis workbooks, and practical learning materials.
 
 ---
 
@@ -9,188 +9,213 @@ Welcome to the **temp** repository! This collection showcases advanced Excel das
 | Metric | Value |
 |--------|-------|
 | **Repository** | RohitSharma-DA/temp |
-| **Type** | Data Analytics & Excel Files |
-| **Total Files** | 7 Excel Workbooks |
-| **Repository Size** | ~15 MB |
-| **Visibility** | Private |
-| **Last Updated** | May 30, 2026 |
+| **Type** | Data Analytics, Excel & Power BI |
+| **Total Files** | 12+ (Excel, Power BI, Documentation) |
+| **Repository Size** | ~4.14 MB |
+| **Organization** | 4 Organized Directories |
+| **Visibility** | Public |
+| **Last Updated** | July 6, 2026 |
 
 ---
 
-## 📁 Excel Files Inventory
-
-### 1. 📊 **06Sales_Data_Dashboard.xlsx**
-- **File Size**: 380.67 KB
-- **Description**: A comprehensive sales dashboard with visual analytics
-- **Purpose**: Sales data visualization and analysis
-- **Download**: [View File](https://github.com/RohitSharma-DA/temp/blob/main/06Sales_Data_Dashboard.xlsx)
-
-### 2. 📋 **ASDC_TASKBOOK (1).xlsx**
-- **File Size**: 41.04 KB
-- **Description**: Task management and tracking workbook
-- **Purpose**: Project task organization and monitoring
-- **Download**: [View File](https://github.com/RohitSharma-DA/temp/blob/main/ASDC_TASKBOOK%20(1).xlsx)
-
-### 3. 🔍 **AdvancedLookUp.xlsx**
-- **File Size**: 16.70 KB
-- **Description**: Advanced lookup functions and reference tables
-- **Purpose**: VLOOKUP, INDEX-MATCH, and other lookup demonstrations
-- **Download**: [View File](https://github.com/RohitSharma-DA/temp/blob/main/AdvancedLookUp.xlsx)
-
-### 4. 📅 **DA14_02_05_26.xlsx**
-- **File Size**: 32.14 KB
-- **Description**: Data analysis workbook with date-coded filename
-- **Purpose**: Analytical datasets and calculations
-- **Download**: [View File](https://github.com/RohitSharma-DA/temp/blob/main/DA14_02_05_26.xlsx)
-
-### 5. 🎯 **MS_Excel_Practical_Exam_Medium_Level (3).xlsx**
-- **File Size**: 40.91 KB
-- **Description**: Medium-level practical Excel exam exercises
-- **Purpose**: Skills assessment and intermediate Excel techniques
-- **Download**: [View File](https://github.com/RohitSharma-DA/temp/blob/main/MS_Excel_Practical_Exam_Medium_Level%20(3).xlsx)
-
-### 6. 🍕 **PizzaSales_MasterTables.xlsx**
-- **File Size**: 14.79 MB ⭐ *Largest File*
-- **Description**: Comprehensive pizza sales dataset with master tables
-- **Purpose**: Large-scale data analysis and reporting
-- **Key Features**:
-  - Master data tables
-  - Transactional sales data
-  - Analytics-ready dataset
-- **Download**: [View File](https://github.com/RohitSharma-DA/temp/blob/main/PizzaSales_MasterTables.xlsx)
-
-### 7. 🍽️ **Restaurant_Sales_Data_Dashboard.xlsx**
-- **File Size**: 516.08 KB
-- **Description**: Restaurant sales analytics dashboard
-- **Purpose**: Restaurant performance metrics and KPI tracking
-- **Key Features**:
-  - Sales dashboards
-  - Visual analytics
-  - Performance metrics
-- **Download**: [View File](https://github.com/RohitSharma-DA/temp/blob/main/Restaurant_Sales_Data_Dashboard.xlsx)
-
----
-
-## 📊 File Size Distribution
+## 📁 Directory Structure
 
 ```
-PizzaSales_MasterTables.xlsx          ████████████████████ 14.79 MB (98.2%)
-Restaurant_Sales_Data_Dashboard.xlsx  █ 516.08 KB (3.4%)
-06Sales_Data_Dashboard.xlsx           █ 380.67 KB (2.5%)
-MS_Excel_Practical_Exam_Medium...    █ 40.91 KB (0.3%)
-ASDC_TASKBOOK (1).xlsx               █ 41.04 KB (0.3%)
-DA14_02_05_26.xlsx                   █ 32.14 KB (0.2%)
-AdvancedLookUp.xlsx                  █ 16.70 KB (0.1%)
+RohitSharma-DA/temp/
+├── 01_Sales_Analytics/
+│   ├── Product_Sales_Data_Dashboard.xlsx
+│   ├── Restaurant_Sales_Data_Dashboard.xlsx
+│   ├── PizzaSales_MasterTables_dashboards.xlsx
+│   └── README.md
+│
+├── 02_Learning_Materials/
+│   ├── AdvancedLookUp.xlsx
+│   ├── MS_Excel_Practical_Exam_Medium_Level.xlsx
+│   ├── DA14_02_05_26.xlsx
+│   ├── workshop_practise_sheet.xlsx
+│   └── README.md
+│
+├── 03_Operations_Management/
+│   ├── ASDC_TASKBOOK.xlsx
+│   └── README.md
+│
+├── 04_Power_BI_Dashboards/
+│   ├── SuperStoneUS_Dashboard_PB.pbix
+│   ├── student_LIFESTYLE_dashboard.pbix
+│   ├── ggtt.pbix
+│   ├── tester.pbix
+│   └── README.md
+│
+├── README.md (this file)
+└── REPOSITORY_STRUCTURE.md
 ```
 
 ---
 
-## 🎯 Project Categories
+## 📊 01_Sales_Analytics
 
-### 💼 **Sales & Business Analytics**
-- `06Sales_Data_Dashboard.xlsx` - General sales dashboard
-- `Restaurant_Sales_Data_Dashboard.xlsx` - Restaurant-specific analytics
-- `PizzaSales_MasterTables.xlsx` - Pizza business data analysis
+Real-world sales dashboards and analytical datasets for business intelligence.
 
-### 📚 **Learning & Practice**
-- `AdvancedLookUp.xlsx` - Excel function tutorials
-- `MS_Excel_Practical_Exam_Medium_Level (3).xlsx` - Practice exercises
-- `DA14_02_05_26.xlsx` - Data analysis samples
+| File | Size | Purpose |
+|------|------|---------|
+| **Product_Sales_Data_Dashboard.xlsx** | 380.67 KB | General product sales visualization and metrics |
+| **Restaurant_Sales_Data_Dashboard.xlsx** | 516.08 KB | Restaurant-specific performance analytics |
+| **PizzaSales_MasterTables_dashboards.xlsx** | 14.79 MB | Pizza business master data and dashboards |
 
-### 📋 **Operations & Management**
-- `ASDC_TASKBOOK (1).xlsx` - Task management system
+**Use Cases**: Sales tracking, business intelligence, revenue analysis, KPI monitoring
+
+---
+
+## 📚 02_Learning_Materials
+
+Excel skills development and practice exercises for continuous learning.
+
+| File | Size | Purpose |
+|------|------|---------|
+| **AdvancedLookUp.xlsx** | 16.70 KB | Advanced lookup functions (VLOOKUP, INDEX-MATCH) |
+| **MS_Excel_Practical_Exam_Medium_Level.xlsx** | 40.91 KB | Medium-level Excel exam exercises and skills assessment |
+| **DA14_02_05_26.xlsx** | 32.14 KB | Data analysis samples and techniques |
+| **workshop_practise_sheet.xlsx** | 361.15 KB | Workshop practice exercises and drills |
+
+**Use Cases**: Learning Excel, skill development, practice exercises, professional certification prep
+
+---
+
+## 📋 03_Operations_Management
+
+Operational and project management tools.
+
+| File | Size | Purpose |
+|------|------|---------|
+| **ASDC_TASKBOOK.xlsx** | 41.04 KB | Task tracking and project management system |
+
+**Use Cases**: Project tracking, task management, workflow organization, team collaboration
+
+---
+
+## 📊 04_Power_BI_Dashboards
+
+Interactive Power BI dashboards for advanced analytics and visualization.
+
+| File | Size | Purpose |
+|------|------|---------|
+| **SuperStoneUS_Dashboard_PB.pbix** | 308.96 KB | US-based business analytics dashboard |
+| **student_LIFESTYLE_dashboard.pbix** | 1.10 MB | Student lifestyle analytics and demographics |
+| **ggtt.pbix** | 1.18 MB | General analytics dashboard |
+| **tester.pbix** | 164.21 KB | Testing and experimental dashboard |
+
+**Use Cases**: Interactive dashboards, advanced visualizations, real-time analytics, business intelligence
+
+---
+
+## 📊 File Statistics Summary
+
+| Metric | Value |
+|--------|-------|
+| **Total Files** | 12 |
+| **Excel Files** | 7 |
+| **Power BI Files** | 4 |
+| **Documentation Files** | 2 |
+| **Total Data Size** | ~4.14 MB |
+| **Largest File** | PizzaSales_MasterTables_dashboards.xlsx (14.79 MB) |
+| **Smallest File** | AdvancedLookUp.xlsx (16.70 KB) |
+
+---
+
+## 💡 Key Excel Features & Capabilities
+
+This repository demonstrates proficiency in:
+
+| Feature | Status | Examples |
+|---------|--------|----------|
+| 📊 Dashboard Visualizations | ✅ | Sales, Restaurant dashboards |
+| 📈 Data Analysis | ✅ | PizzaSales, DA14 workbooks |
+| 🔍 Advanced Formulas | ✅ | VLOOKUP, INDEX-MATCH, SUMIF, COUNTIF |
+| 🎯 Pivot Tables | ✅ | Data summarization and analysis |
+| 📋 Task Management | ✅ | ASDC_TASKBOOK |
+| 🎓 Practice Exercises | ✅ | Excel Exam workbooks |
+| 📊 Conditional Formatting | ✅ | Visual data highlighting |
+| 🔐 Data Validation | ✅ | Dropdown lists and constraints |
+
+---
+
+## 🎯 Power BI Capabilities
+
+- Interactive dashboards and reports
+- Advanced data visualizations
+- Real-time analytics
+- Business intelligence insights
+- KPI tracking and monitoring
+- Dynamic filtering and drill-down capabilities
 
 ---
 
 ## 🚀 Quick Start Guide
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/RohitSharma-DA/temp.git
-   cd temp
-   ```
+### 1. Clone the Repository
+```bash
+git clone https://github.com/RohitSharma-DA/temp.git
+cd temp
+```
 
-2. **Access the Files**
-   - Download individual Excel files from the repository
-   - Open with Microsoft Excel, Google Sheets, or compatible spreadsheet software
+### 2. Access the Files
+- Download individual Excel files from the repository
+- Open with Microsoft Excel, Google Sheets, or compatible spreadsheet software
+- Open .pbix files with Power BI Desktop
 
-3. **Explore the Dashboards**
-   - Review sales dashboards for business insights
-   - Study lookup functions in AdvancedLookUp.xlsx
-   - Use task management templates from ASDC_TASKBOOK
-
----
-
-## 💡 Key Features & Capabilities
-
-| Feature | Status | Files |
-|---------|--------|-------|
-| 📊 Dashboard Visualizations | ✅ | Sales, Restaurant dashboards |
-| 📈 Data Analysis | ✅ | DA14, PizzaSales |
-| 🔍 Advanced Formulas | ✅ | AdvancedLookUp |
-| 📋 Task Management | ✅ | ASDC_TASKBOOK |
-| 🎯 Practice Exercises | ✅ | MS_Excel Exams |
+### 3. Explore by Category
+- **Sales Reports**: Browse `01_Sales_Analytics/`
+- **Learning Materials**: Check `02_Learning_Materials/`
+- **Task Management**: Use `03_Operations_Management/`
+- **Interactive Dashboards**: Open `04_Power_BI_Dashboards/`
 
 ---
 
-## 📊 Excel Functions & Techniques
+## 🎓 Use Cases
 
-This repository demonstrates proficiency in:
+### 💼 Business Analytics
+- Sales performance tracking
+- Restaurant operations monitoring
+- Revenue analysis and forecasting
+- Business intelligence reporting
 
-- ✅ **Data Visualization** - Charts, graphs, and dashboards
-- ✅ **Advanced Formulas** - VLOOKUP, INDEX-MATCH, SUMIF, COUNTIF
-- ✅ **Pivot Tables** - Data summarization and analysis
-- ✅ **Data Validation** - Dropdown lists and constraints
-- ✅ **Conditional Formatting** - Visual data highlighting
-- ✅ **Dashboard Design** - Interactive reports and KPIs
+### 📚 Learning & Development
+- Excel function mastery
+- Dashboard design patterns
+- Data analysis techniques
+- Skills certification preparation
+
+### 📊 Data Management
+- Data organization and structure
+- Master data tables
+- Data quality and validation
+- Project management and tracking
 
 ---
 
 ## 🔐 Repository Details
 
 - **Owner**: [RohitSharma-DA](https://github.com/RohitSharma-DA)
-- **Visibility**: Private
-- **Repository Size**: 33.01 KB (Git objects)
-- **Data Size**: ~15.39 MB
-- **Created**: 40 days ago
-- **Last Push**: May 30, 2026 (7 hours ago)
+- **Repository**: https://github.com/RohitSharma-DA/temp
+- **Visibility**: Public
+- **Organization**: 4 Logical Directories
+- **Last Updated**: July 6, 2026
 
 ---
 
-## 📝 File Statistics Summary
+## 📝 Directory Organization Benefits
 
-| Metric | Value |
-|--------|-------|
-| Total Excel Files | 7 |
-| Total Data Size | ~15.39 MB |
-| Average File Size | ~2.20 MB |
-| Largest File | PizzaSales_MasterTables.xlsx (14.79 MB) |
-| Smallest File | AdvancedLookUp.xlsx (16.70 KB) |
-
----
-
-## 🎓 Use Cases
-
-### 🏢 Business Analytics
-- Sales performance tracking
-- Restaurant operations monitoring
-- Revenue analysis and forecasting
-
-### 🎯 Learning & Development
-- Excel function mastery
-- Dashboard design patterns
-- Data analysis techniques
-
-### 📊 Data Management
-- Data organization and structure
-- Master data tables
-- Data quality and validation
+✅ **Easy Navigation** - Files grouped by purpose and category  
+✅ **Clear Categories** - Obvious where to find specific content  
+✅ **Scalable** - Easy to add new files to appropriate folders  
+✅ **Professional** - Mirrors industry best practices  
+✅ **Collaborative** - Team members quickly understand structure  
 
 ---
 
 ## 🤝 Contributing
 
-This is a private repository. For access or collaboration, please contact the repository owner.
+This repository showcases data analytics projects and learning materials. For collaboration or access requests, please contact the repository owner.
 
 ---
 
@@ -203,16 +228,22 @@ This is a private repository. For access or collaboration, please contact the re
 
 ## ✨ Highlights
 
-> 💫 **Premium Content**: This repository contains carefully curated Excel workbooks ranging from basic tutorials to enterprise-level dashboards.
+> 💫 **Comprehensive Collection**: Ranging from basic Excel tutorials to enterprise-level Power BI dashboards and analytics.
 
-> 🎯 **Practical Application**: Real-world datasets (Pizza Sales, Restaurant Data) for hands-on learning.
+> 🎯 **Real-World Data**: Pizza Sales, Restaurant Analytics, and Student Lifestyle datasets for practical learning.
 
 > 📈 **Progressive Learning**: From lookup functions to advanced dashboards - structured learning path.
 
+> 🏆 **Professional Grade**: Production-ready dashboards and analytics tools.
+
 ---
 
-## 📅 Last Updated
-**May 30, 2026** - Repository scan and documentation generated
+## 📅 Repository Information
+
+- **Created**: May 2026
+- **Last Updated**: July 6, 2026
+- **Total Commits**: Multiple organizational updates
+- **Status**: Active
 
 ---
 
@@ -220,6 +251,6 @@ This is a private repository. For access or collaboration, please contact the re
 
 ### 🌟 Explore | Learn | Analyze | Thrive
 
-Built with ❤️ for Data Analytics Excellence
+**Built with ❤️ for Data Analytics Excellence**
 
 </div>
